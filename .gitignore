@@ -1,0 +1,25 @@
+.venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.ipynb_checkpoints/
+.vscode/
+.idea/
+*.log
+.env
+
+# Large datasets / archives
+*.zip
+*.tar.gz
+*.whl
+
+# Videos
+*.mp4
+*.avi
+*.mov
+*.mkv
+
+# FPL generated/raw data
+datasets/FPL/data/
+datasets/FPL/*.tar.gz
